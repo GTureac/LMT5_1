@@ -1,0 +1,22 @@
+body {
+    background-color :rgb(170, 178, 180);
+    color: #011314;
+    font-family : Arial , sans-serif ;
+    font-size :10 pt ;
+    margin: 0px;
+    padding: 0px;
+    }
+#container {
+    width: 400px;
+    margin: 0px auto;
+}
+
+table{
+    width: 300px;
+    border: 1px solid black;
+    border-spacing: 0;
+}
+
+th{
+    border: 10px;
+}
